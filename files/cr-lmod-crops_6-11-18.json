@@ -1,0 +1,710 @@
+[
+ {
+   "crop_id": 737,
+   "crop_name": "Alfalfa, hay, release",
+   "crop_yield": 6.5,
+   "crop_yield_unit": "ton/ac"
+ },
+ {
+   "crop_id": 738,
+   "crop_name": "Alfalfa, hay",
+   "crop_yield": 6.5,
+   "crop_yield_unit": "ton/ac"
+ },
+ {
+   "crop_id": 739,
+   "crop_name": "Alfalfa, seed production",
+   "crop_yield": 1200,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 740,
+   "crop_name": "Alfalfa-Grass, cool season, hay",
+   "crop_yield": 1.5,
+   "crop_yield_unit": "ton/ac"
+ },
+ {
+   "crop_id": 741,
+   "crop_name": "Alfalfa-Grass, warm season, hay",
+   "crop_yield": 4,
+   "crop_yield_unit": "ton/ac"
+ },
+ {
+   "crop_id": 742,
+   "crop_name": "Alfalfa-Grass, warm season, release",
+   "crop_yield": 6.5,
+   "crop_yield_unit": "ton/ac"
+ },
+ {
+   "crop_id": 743,
+   "crop_name": "Artichoke",
+   "crop_yield": 15000,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 744,
+   "crop_name": "Asparagus",
+   "crop_yield": 2000,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 745,
+   "crop_name": "Barley, spring, grain",
+   "crop_yield": 55,
+   "crop_yield_unit": "bu/ac"
+ },
+ {
+   "crop_id": 746,
+   "crop_name": "Barley, winter, grain",
+   "crop_yield": 50,
+   "crop_yield_unit": "bu/ac"
+ },
+ {
+   "crop_id": 747,
+   "crop_name": "Bean, field, dry",
+   "crop_yield": 1400,
+   "crop_yield_unit": "lb/ac"
+ },
+ {
+   "crop_id": 748,
+   "crop_name": "Bean, Pea, field, green",
+   "crop_yield": 8100,
+   "crop_yield_unit": "lb/ac"
+ },
+ {
+   "crop_id": 749,
+   "crop_name": "Brassica, cover, forage, release",
+   "crop_yield": 3000,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 750,
+   "crop_name": "Brassica, cover, forage",
+   "crop_yield": 1200,
+   "crop_yield_unit": "lb/ac"
+ },
+ {
+   "crop_id": 751,
+   "crop_name": "Buckwheat, grain",
+   "crop_yield": 25,
+   "crop_yield_unit": "bu/ac"
+ },
+ {
+   "crop_id": 752,
+   "crop_name": "Camelina, grain",
+   "crop_yield": 690,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 753,
+   "crop_name": "Canola, spring, grain",
+   "crop_yield": 1200,
+   "crop_yield_unit": "lb/ac"
+ },
+ {
+   "crop_id": 754,
+   "crop_name": "Canola, winter, grain",
+   "crop_yield": 1100,
+   "crop_yield_unit": "lb/ac"
+ },
+ {
+   "crop_id": 755,
+   "crop_name": "Carrot, fresh market",
+   "crop_yield": 28400,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 756,
+   "crop_name": "Carrot, processing",
+   "crop_yield": 30,
+   "crop_yield_unit": "ton/ac"
+ },
+ {
+   "crop_id": 757,
+   "crop_name": "Cassava, tubers",
+   "crop_yield": 26000,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 758,
+   "crop_name": "Clover, perennial, forage, release",
+   "crop_yield": 3,
+   "crop_yield_unit": "ton/ac"
+ },
+ {
+   "crop_id": 759,
+   "crop_name": "Clover, red, alsike, forage",
+   "crop_yield": 3,
+   "crop_yield_unit": "ton/ac"
+ },
+ {
+   "crop_id": 760,
+   "crop_name": "Clover, red, alsike, seed production",
+   "crop_yield": 1500,
+   "crop_yield_unit": "lb/ac"
+ },
+ {
+   "crop_id": 761,
+   "crop_name": "Clover, sweet, forage",
+   "crop_yield": 3,
+   "crop_yield_unit": "ton/ac"
+ },
+ {
+   "crop_id": 762,
+   "crop_name": "Clover, sweet, seed production",
+   "crop_yield": 1500,
+   "crop_yield_unit": "lb/ac"
+ },
+ {
+   "crop_id": 763,
+   "crop_name": "Corn, grain, seed",
+   "crop_yield": 112,
+   "crop_yield_unit": "bu/ac"
+ },
+ {
+   "crop_id": 764,
+   "crop_name": "Corn, pop, grain",
+   "crop_yield": 11000,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 765,
+   "crop_name": "Corn, silage",
+   "crop_yield": 23,
+   "crop_yield_unit": "ton/ac"
+ },
+ {
+   "crop_id": 766,
+   "crop_name": "Corn, sweet, ears",
+   "crop_yield": 14000,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 767,
+   "crop_name": "Cotton",
+   "crop_yield": 750,
+   "crop_yield_unit": "lb/ac lint"
+ },
+ {
+   "crop_id": 768,
+   "crop_name": "Cover crop, annual, legume",
+   "crop_yield": 3,
+   "crop_yield_unit": "ton/ac"
+ },
+ {
+   "crop_id": 769,
+   "crop_name": "Cover crop, mix, cool season, spring",
+   "crop_yield": 2000,
+   "crop_yield_unit": "lb/ac"
+ },
+ {
+   "crop_id": 770,
+   "crop_name": "Cover crop, mix, cool season, winter",
+   "crop_yield": 3890,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 771,
+   "crop_name": "Cover crop, mix, warm season",
+   "crop_yield": 2000,
+   "crop_yield_unit": "lb/ac"
+ },
+ {
+   "crop_id": 772,
+   "crop_name": "Crambe",
+   "crop_yield": 2000,
+   "crop_yield_unit": "lb/ac"
+ },
+ {
+   "crop_id": 773,
+   "crop_name": "Eggplant",
+   "crop_yield": 250,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 774,
+   "crop_name": "Flax, grain",
+   "crop_yield": 15,
+   "crop_yield_unit": "bu/ac"
+ },
+ {
+   "crop_id": 775,
+   "crop_name": "Flower perennial, bulbs",
+   "crop_yield": 600,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 776,
+   "crop_name": "Flowers, annual",
+   "crop_yield": 1200,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 777,
+   "crop_name": "Flowers, perennial",
+   "crop_yield": 6.5,
+   "crop_yield_unit": "ton/ac"
+ },
+ {
+   "crop_id": 778,
+   "crop_name": "Garlic, seed production",
+   "crop_yield": 17000,
+   "crop_yield_unit": "lb/ac"
+ },
+ {
+   "crop_id": 779,
+   "crop_name": "Ginger",
+   "crop_yield": 46000,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 780,
+   "crop_name": "Grass, annual, forage, fiber",
+   "crop_yield": 3,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 781,
+   "crop_name": "Grass, perennial, cool season",
+   "crop_yield": 3000,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 782,
+   "crop_name": "Grass, perennial, Switchgrass",
+   "crop_yield": 3000,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 783,
+   "crop_name": "Grass, perennial, Turfgrass",
+   "crop_yield": 1,
+   "crop_yield_unit": "ton/ac"
+ },
+ {
+   "crop_id": 784,
+   "crop_name": "Grass, perennial, warm season",
+   "crop_yield": 3000,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 785,
+   "crop_name": "Grass, seed, perennial, cool season",
+   "crop_yield": 1200,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 786,
+   "crop_name": "Grass, seed, perennial, warm season",
+   "crop_yield": 1200,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 787,
+   "crop_name": "Hops",
+   "crop_yield": 34,
+   "crop_yield_unit": "tons/ac"
+ },
+ {
+   "crop_id": 788,
+   "crop_name": "Horseradish",
+   "crop_yield": 18000,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 789,
+   "crop_name": "Meadowfoam, seed production",
+   "crop_yield": 1100,
+   "crop_yield_unit": "lb/ac"
+ },
+ {
+   "crop_id": 790,
+   "crop_name": "Melons, vine, eg watermelon",
+   "crop_yield": 25000,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 791,
+   "crop_name": "Millet, foxtail, grain",
+   "crop_yield": 30,
+   "crop_yield_unit": "bu/ac"
+ },
+ {
+   "crop_id": 792,
+   "crop_name": "Millet, proso, grain",
+   "crop_yield": 35,
+   "crop_yield_unit": "bu/ac"
+ },
+ {
+   "crop_id": 793,
+   "crop_name": "Mint",
+   "crop_yield": 1100,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 794,
+   "crop_name": "Miscanthus, perennial, biomass",
+   "crop_yield": 12,
+   "crop_yield_unit": "ton/ac"
+ },
+ {
+   "crop_id": 795,
+   "crop_name": "Miscanthus, perennial, rhizome",
+   "crop_yield": 12,
+   "crop_yield_unit": "lbs/ac rhizome"
+ },
+ {
+   "crop_id": 796,
+   "crop_name": "Mustard seed, grain",
+   "crop_yield": 1200,
+   "crop_yield_unit": "lb/ac"
+ },
+ {
+   "crop_id": 797,
+   "crop_name": "no crop",
+   "crop_yield": 0,
+   "crop_yield_unit": "kg/m^2"
+ },
+ {
+   "crop_id": 798,
+   "crop_name": "Oats, spring, grain",
+   "crop_yield": 60,
+   "crop_yield_unit": "bu/ac"
+ },
+ {
+   "crop_id": 799,
+   "crop_name": "Okra",
+   "crop_yield": 2650,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 800,
+   "crop_name": "Onion, bulb dry",
+   "crop_yield": 300,
+   "crop_yield_unit": "cwt/ac"
+ },
+ {
+   "crop_id": 801,
+   "crop_name": "Onion, bulb, released",
+   "crop_yield": 300,
+   "crop_yield_unit": "cwt/ac"
+ },
+ {
+   "crop_id": 802,
+   "crop_name": "Onion, green bunch",
+   "crop_yield": 18200,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 803,
+   "crop_name": "Pea, Lentil, dry",
+   "crop_yield": 1500,
+   "crop_yield_unit": "lb/ac"
+ },
+ {
+   "crop_id": 804,
+   "crop_name": "Peanut, runner",
+   "crop_yield": 2000,
+   "crop_yield_unit": "lb/ac"
+ },
+ {
+   "crop_id": 805,
+   "crop_name": "Peppers, bell, chile",
+   "crop_yield": 31800,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 806,
+   "crop_name": "Pineapple",
+   "crop_yield": 10,
+   "crop_yield_unit": "ton/ac"
+ },
+ {
+   "crop_id": 807,
+   "crop_name": "Potato, tubers",
+   "crop_yield": 400,
+   "crop_yield_unit": "cwt/ac"
+ },
+ {
+   "crop_id": 808,
+   "crop_name": "Rice, dwarf",
+   "crop_yield": 90,
+   "crop_yield_unit": "cwt/ac"
+ },
+ {
+   "crop_id": 809,
+   "crop_name": "Rice, semi-dwarf",
+   "crop_yield": 75,
+   "crop_yield_unit": "cwt/ac"
+ },
+ {
+   "crop_id": 810,
+   "crop_name": "Rice, tall",
+   "crop_yield": 55,
+   "crop_yield_unit": "cwt/ac"
+ },
+ {
+   "crop_id": 811,
+   "crop_name": "Roses, bag market",
+   "crop_yield": 40000,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 812,
+   "crop_name": "Rye, cereal, winter, grain",
+   "crop_yield": 40,
+   "crop_yield_unit": "bu/ac"
+ },
+ {
+   "crop_id": 813,
+   "crop_name": "Ryegrass, annual, grain",
+   "crop_yield": 1780,
+   "crop_yield_unit": "ton/ac"
+ },
+ {
+   "crop_id": 814,
+   "crop_name": "Safflower",
+   "crop_yield": 1400,
+   "crop_yield_unit": "lb/ac"
+ },
+ {
+   "crop_id": 815,
+   "crop_name": "Sesame, seed",
+   "crop_yield": 2600,
+   "crop_yield_unit": "lb/ac"
+ },
+ {
+   "crop_id": 816,
+   "crop_name": "Small grain, spring, forage",
+   "crop_yield": 2000,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 817,
+   "crop_name": "Small grain, spring, hay",
+   "crop_yield": 2,
+   "crop_yield_unit": "ton/ac"
+ },
+ {
+   "crop_id": 818,
+   "crop_name": "Small grain, spring, silage",
+   "crop_yield": 8,
+   "crop_yield_unit": "ton/ac"
+ },
+ {
+   "crop_id": 819,
+   "crop_name": "Small grain, winter, forage, release",
+   "crop_yield": 2000,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 820,
+   "crop_name": "Small grain, winter, forage",
+   "crop_yield": 2240,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 821,
+   "crop_name": "Small grain, winter, hay",
+   "crop_yield": 2,
+   "crop_yield_unit": "ton/ac"
+ },
+ {
+   "crop_id": 822,
+   "crop_name": "Small grain, winter, silage",
+   "crop_yield": 11,
+   "crop_yield_unit": "ton/ac"
+ },
+ {
+   "crop_id": 823,
+   "crop_name": "Sorghum, forage, seed production",
+   "crop_yield": 1250,
+   "crop_yield_unit": "lb/ac"
+ },
+ {
+   "crop_id": 824,
+   "crop_name": "Sorghum, grain",
+   "crop_yield": 64,
+   "crop_yield_unit": "bu/ac"
+ },
+ {
+   "crop_id": 825,
+   "crop_name": "Sorghum, sudangrass, forage",
+   "crop_yield": 10,
+   "crop_yield_unit": "ton/ac"
+ },
+ {
+   "crop_id": 826,
+   "crop_name": "Sorghum, sudangrass, silage",
+   "crop_yield": 20,
+   "crop_yield_unit": "ton/ac"
+ },
+ {
+   "crop_id": 827,
+   "crop_name": "Soybean, grain",
+   "crop_yield": 45,
+   "crop_yield_unit": "bu/ac"
+ },
+ {
+   "crop_id": 828,
+   "crop_name": "Strawberry",
+   "crop_yield": 20000,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 829,
+   "crop_name": "Sugarbeet, seed production",
+   "crop_yield": 2600,
+   "crop_yield_unit": "lb/ac"
+ },
+ {
+   "crop_id": 830,
+   "crop_name": "Sugarbeet, sugar, released",
+   "crop_yield": 20,
+   "crop_yield_unit": "ton/ac"
+ },
+ {
+   "crop_id": 831,
+   "crop_name": "Sugarbeet, sugar",
+   "crop_yield": 20,
+   "crop_yield_unit": "ton/ac"
+ },
+ {
+   "crop_id": 832,
+   "crop_name": "Sugarcane, sugar",
+   "crop_yield": 34,
+   "crop_yield_unit": "ton/ac Cane"
+ },
+ {
+   "crop_id": 833,
+   "crop_name": "Sunflower",
+   "crop_yield": 1400,
+   "crop_yield_unit": "lb/ac"
+ },
+ {
+   "crop_id": 834,
+   "crop_name": "Taro, Bunglong",
+   "crop_yield": 17000,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 835,
+   "crop_name": "Teff, grain",
+   "crop_yield": 800,
+   "crop_yield_unit": "lb/ac"
+ },
+ {
+   "crop_id": 836,
+   "crop_name": "Teff, summer, forage",
+   "crop_yield": 3,
+   "crop_yield_unit": "ton/ac"
+ },
+ {
+   "crop_id": 837,
+   "crop_name": "Timothy, hay, released",
+   "crop_yield": 2,
+   "crop_yield_unit": "ton/ac"
+ },
+ {
+   "crop_id": 838,
+   "crop_name": "Timothy, hay",
+   "crop_yield": 2,
+   "crop_yield_unit": "ton/ac"
+ },
+ {
+   "crop_id": 839,
+   "crop_name": "Tobacco, burley",
+   "crop_yield": 2100,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 840,
+   "crop_name": "Tobacco, dark",
+   "crop_yield": 2100,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 841,
+   "crop_name": "Tobacco, flue cured",
+   "crop_yield": 2100,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 842,
+   "crop_name": "Tomato, fresh, cwt",
+   "crop_yield": 300,
+   "crop_yield_unit": "cwt/ac"
+ },
+ {
+   "crop_id": 843,
+   "crop_name": "Tomato, processing, tons",
+   "crop_yield": 25,
+   "crop_yield_unit": "ton/ac"
+ },
+ {
+   "crop_id": 844,
+   "crop_name": "Triticale, grain",
+   "crop_yield": 40,
+   "crop_yield_unit": "bu/ac"
+ },
+ {
+   "crop_id": 845,
+   "crop_name": "Vegetable, eg broccoli, cauliflower",
+   "crop_yield": 18300,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 846,
+   "crop_name": "Vegetable, head, eg cabbage",
+   "crop_yield": 39000,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 847,
+   "crop_name": "Vegetable, root, eg turnip",
+   "crop_yield": 1800,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 848,
+   "crop_name": "Vegetable, root, seed production",
+   "crop_yield": 350,
+   "crop_yield_unit": "lb/ac"
+ },
+ {
+   "crop_id": 849,
+   "crop_name": "Vegetable, vine, eg squash",
+   "crop_yield": 31700,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 850,
+   "crop_name": "Vegetables, leafy, eg spinach",
+   "crop_yield": 35300,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 851,
+   "crop_name": "Weeds, spring, summer",
+   "crop_yield": 2000,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 852,
+   "crop_name": "Weeds, winter",
+   "crop_yield": 1000,
+   "crop_yield_unit": "lbs/ac"
+ },
+ {
+   "crop_id": 853,
+   "crop_name": "Wheat, spring, grain",
+   "crop_yield": 30,
+   "crop_yield_unit": "bu/ac"
+ },
+ {
+   "crop_id": 854,
+   "crop_name": "Wheat, winter, grain",
+   "crop_yield": 40,
+   "crop_yield_unit": "bu/ac"
+ }
+]

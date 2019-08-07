@@ -1,0 +1,4472 @@
+[
+ {
+   "op_id": 22684,
+   "op_name": "Fert applic. anhyd knife 12 inch spacing, coil tine har",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "19.5",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22685,
+   "op_name": "Fert applic. anhyd knife 12 inch spacing",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "6.5",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22686,
+   "op_name": "Fert applic. broadcast by hand",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "0.01",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22687,
+   "op_name": "Fert applic. coulter, high press. inject 12 inch spacing",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "1.95",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22688,
+   "op_name": "Fert applic. deep plcmt hvy shnk",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "13",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22689,
+   "op_name": "Fert applic. shank low disturb, 12 inch spacing, coil tine har",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "16.25",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22690,
+   "op_name": "Fert applic. shank low disturb, 12 inch spacing",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "3.25",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22691,
+   "op_name": "Fert applic. shank low disturb, 15 in spacing",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "2.6",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22692,
+   "op_name": "Fert applic. side-dress, liquid",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22693,
+   "op_name": "Fert applic. surface broadcast",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "0.06",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22694,
+   "op_name": "Fert applic., aerial",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22695,
+   "op_name": "Fert. applic. anhyd knife 15 inch spacing high disturb",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "35.1",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22696,
+   "op_name": "Fert. applic. anhyd knife 15 inch spacing, coil tine har",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "18.2",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22697,
+   "op_name": "Fert. applic. anhyd knife 15 inch spacing, high disturb, coil tine har",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "48.1",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22698,
+   "op_name": "Fert. applic. anhyd knife 15 inch spacing",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "5.2",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22699,
+   "op_name": "Fert. applic. anhyd knife 30 inch spacing, bedded",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "2.6",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22700,
+   "op_name": "Fert. applic. anhyd knife 30 inch spacing",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "2.6",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22701,
+   "op_name": "Fert. applic. anhyd, single disk, 30 inch spacing",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "1.95",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22702,
+   "op_name": "Fert. applic. anhyd. knife 38 inch spacing",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "1.95",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22703,
+   "op_name": "Fert. applic. knife, 10 inch depth, 30 to 40 inch spacing",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "5.36",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22704,
+   "op_name": "Fert. applic. knife, dual apply, 15 inch spacing, high disturb",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "35.1",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22705,
+   "op_name": "Fert. applic. liquid-dry, low disturb, precision, 30 inch spacing",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "0.51",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22706,
+   "op_name": "Fert. applic. single disk, low disturb, 30 inch spacing",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "1.95",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22707,
+   "op_name": "Manure injector, high disturb, 30 inch spacing",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "7.8",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 1,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22708,
+   "op_name": "Manure injector, low disturb, 15 inch spacing",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "4.68",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 1,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22709,
+   "op_name": "Manure injector, low disturb, 30 inch spacing",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "2.34",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 1,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22710,
+   "op_name": "Manure spreader, liquid",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "0.29",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 1,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22711,
+   "op_name": "Manure spreader, slurry",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "0.29",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 1,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22712,
+   "op_name": "Manure spreader, solid and semi-solid",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "0.2",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 1,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22713,
+   "op_name": "Manure, liquid, irrigation",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 1,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22714,
+   "op_name": "Spray, selective herbicide, in growing crop",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 1,
+   "op_res_added": 250
+ },
+ {
+   "op_id": 22715,
+   "op_name": "Sprayer, backpack, kill vegetation",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22716,
+   "op_name": "Sprayer, backpack, post emergence",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22717,
+   "op_name": "Sprayer, defoliant",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22718,
+   "op_name": "Sprayer, fungicide, insecticide tank mix",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22719,
+   "op_name": "Sprayer, kill cover in growing crop",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "0.15",
+   "op_begin_growth": 1,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22720,
+   "op_name": "Sprayer, kill crop",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22721,
+   "op_name": "Sprayer, kill strips",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 1,
+   "op_res_added": 250
+ },
+ {
+   "op_id": 22722,
+   "op_name": "Sprayer, post emerge, fungicide",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22723,
+   "op_name": "Sprayer, post emerge, growth regulator",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22724,
+   "op_name": "Sprayer, post emerge, insecticide",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22725,
+   "op_name": "Sprayer, post emergence, fertilizer tank mix",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 1,
+   "op_res_added": 250
+ },
+ {
+   "op_id": 22726,
+   "op_name": "Sprayer, post emergence",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 1,
+   "op_res_added": 250
+ },
+ {
+   "op_id": 22727,
+   "op_name": "Sprayer, pre-emergence",
+   "op_group1": "Application, agchem, nutrient",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 1,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22728,
+   "op_name": "Drip tape extractor",
+   "op_group1": "Application, irrigation",
+   "op_stir": "2.6",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22729,
+   "op_name": "Drip tape injection shank on beds",
+   "op_group1": "Application, irrigation",
+   "op_stir": "2.6",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22730,
+   "op_name": "Drip tape injection shank",
+   "op_group1": "Application, irrigation",
+   "op_stir": "2.6",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22731,
+   "op_name": "Drip tape injector bed shaper",
+   "op_group1": "Application, irrigation",
+   "op_stir": "26",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22732,
+   "op_name": "Irrigation (1 inch, Buried Drip)",
+   "op_group1": "Application, irrigation",
+   "op_stir": "0",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22733,
+   "op_name": "Irrigation (1 inch, Pivot, Linear, Wheelline)",
+   "op_group1": "Application, irrigation",
+   "op_stir": "0",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22734,
+   "op_name": "Irrigation (2 inch, Border, Furrow)",
+   "op_group1": "Application, irrigation",
+   "op_stir": "0",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22735,
+   "op_name": "Irrigation (2 inch, Buried Drip)",
+   "op_group1": "Application, irrigation",
+   "op_stir": "0",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22736,
+   "op_name": "Irrigation (2 inch, Pivot, Linear, Wheelline)",
+   "op_group1": "Application, irrigation",
+   "op_stir": "0",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22737,
+   "op_name": "Irrigation (4 inch, Border, Furrow)",
+   "op_group1": "Application, irrigation",
+   "op_stir": "0",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22738,
+   "op_name": "Irrigation (4 inch, Pivot, Linear, Wheelline)",
+   "op_group1": "Application, irrigation",
+   "op_stir": "0",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22739,
+   "op_name": "Irrigation (Custom Depth, Border, Furrow)",
+   "op_group1": "Application, irrigation",
+   "op_stir": "0",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22740,
+   "op_name": "Irrigation (Custom depth, Buried Drip)",
+   "op_group1": "Application, irrigation",
+   "op_stir": "0",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22741,
+   "op_name": "Irrigation (Custom Depth, Pivot, Linear, Wheelline)",
+   "op_group1": "Application, irrigation",
+   "op_stir": "0",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22742,
+   "op_name": "Irrigation, Start Monitor (Border, Furrow)",
+   "op_group1": "Application, irrigation",
+   "op_stir": "0",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22743,
+   "op_name": "Irrigation, Start Monitor (Buried Drip)",
+   "op_group1": "Application, irrigation",
+   "op_stir": "0",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22744,
+   "op_name": "Irrigation, Start Monitor (Flood)",
+   "op_group1": "Application, irrigation",
+   "op_stir": "0",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22745,
+   "op_name": "Irrigation, Start Monitor (pivot, linear, wheelline)",
+   "op_group1": "Application, irrigation",
+   "op_stir": "0",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22746,
+   "op_name": "Irrigation, Stop Monitor",
+   "op_group1": "Application, irrigation",
+   "op_stir": "0",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22747,
+   "op_name": "Water mulch; off",
+   "op_group1": "Application, irrigation",
+   "op_stir": "0",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22748,
+   "op_name": "Water mulch; on",
+   "op_group1": "Application, irrigation",
+   "op_stir": "0",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22749,
+   "op_name": "Application, add mulch",
+   "op_group1": "Application, other",
+   "op_stir": "0",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 1,
+   "op_res_added": 2000
+ },
+ {
+   "op_id": 22750,
+   "op_name": "Permeable weed barrier applicator 50 percent cover",
+   "op_group1": "Application, other",
+   "op_stir": "1.56",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 1,
+   "op_res_added": 2000
+ },
+ {
+   "op_id": 22751,
+   "op_name": "Permeable weed barrier applicator, 100 percent cover",
+   "op_group1": "Application, other",
+   "op_stir": "1.56",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 1,
+   "op_res_added": 2000
+ },
+ {
+   "op_id": 22752,
+   "op_name": "Permeable weed barrier applicator, 75 percent cover",
+   "op_group1": "Application, other",
+   "op_stir": "1.56",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 1,
+   "op_res_added": 2000
+ },
+ {
+   "op_id": 22753,
+   "op_name": "Plastic mulch applicator 40 percent cover",
+   "op_group1": "Application, other",
+   "op_stir": "1.56",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 1,
+   "op_res_added": 2000
+ },
+ {
+   "op_id": 22754,
+   "op_name": "Plastic mulch applicator 75 percent cover",
+   "op_group1": "Application, other",
+   "op_stir": "1.56",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 1,
+   "op_res_added": 2000
+ },
+ {
+   "op_id": 22755,
+   "op_name": "Plastic or permeable weed barrier, removal",
+   "op_group1": "Application, other",
+   "op_stir": "0.52",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22756,
+   "op_name": "Application, add PAM",
+   "op_group1": "Construction, other",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 1,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22757,
+   "op_name": "Application, bio-fabric mulch, BFM",
+   "op_group1": "Construction, other",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 1,
+   "op_res_added": 4000
+ },
+ {
+   "op_id": 22758,
+   "op_name": "Bulldozer, clearing-cutting light",
+   "op_group1": "Construction, other",
+   "op_stir": "16.25",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22759,
+   "op_name": "Bulldozer, clearing-cutting",
+   "op_group1": "Construction, other",
+   "op_stir": "0.83",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22760,
+   "op_name": "Bulldozer, filling-leveling",
+   "op_group1": "Construction, other",
+   "op_stir": "5.2",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22761,
+   "op_name": "Burrowing, heavy, Prairie dog",
+   "op_group1": "Construction, other",
+   "op_stir": "16.4",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22762,
+   "op_name": "Burrowing, light, Prairie dog",
+   "op_group1": "Construction, other",
+   "op_stir": "3.51",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22763,
+   "op_name": "Burrowing, moderate, Prairie dog",
+   "op_group1": "Construction, other",
+   "op_stir": "10.5",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22764,
+   "op_name": "Dozer track walking",
+   "op_group1": "Construction, other",
+   "op_stir": "0.98",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22765,
+   "op_name": "Erosion blanket applicaton",
+   "op_group1": "Construction, other",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 1,
+   "op_res_added": 4000
+ },
+ {
+   "op_id": 22766,
+   "op_name": "Hydro-seeder",
+   "op_group1": "Construction, other",
+   "op_stir": "0.15",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22767,
+   "op_name": "Log skidder",
+   "op_group1": "Construction, other",
+   "op_stir": "0.01",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22768,
+   "op_name": "Mow pasture or road right of way leave forage",
+   "op_group1": "Construction, other",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22769,
+   "op_name": "Paving",
+   "op_group1": "Construction, other",
+   "op_stir": "0",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 1,
+   "op_res_added": 2000
+ },
+ {
+   "op_id": 22770,
+   "op_name": "Road grader",
+   "op_group1": "Construction, other",
+   "op_stir": "5.2",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22771,
+   "op_name": "Scalper, tree",
+   "op_group1": "Construction, other",
+   "op_stir": "0.01",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22772,
+   "op_name": "Scarifier",
+   "op_group1": "Construction, other",
+   "op_stir": "0.01",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22773,
+   "op_name": "Scraperpangrader, clearingcutting",
+   "op_group1": "Construction, other",
+   "op_stir": "0.01",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22774,
+   "op_name": "Snow flattening",
+   "op_group1": "Construction, other",
+   "op_stir": "0.98",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22775,
+   "op_name": "Graze, green, 25 pct removal",
+   "op_group1": "Harvest, biomass, residue",
+   "op_stir": "0.49",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22776,
+   "op_name": "Graze, green, 50 pct removal",
+   "op_group1": "Harvest, biomass, residue",
+   "op_stir": "0.49",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22777,
+   "op_name": "Graze, green, 75 pct removal",
+   "op_group1": "Harvest, biomass, residue",
+   "op_stir": "0.49",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22778,
+   "op_name": "Graze, green, 90 pct removal",
+   "op_group1": "Harvest, biomass, residue",
+   "op_stir": "0.49",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22779,
+   "op_name": "Graze, stubble or residue 25 pct",
+   "op_group1": "Harvest, biomass, residue",
+   "op_stir": "0.49",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22780,
+   "op_name": "Graze, stubble or residue 50 pct",
+   "op_group1": "Harvest, biomass, residue",
+   "op_stir": "0.49",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22781,
+   "op_name": "Graze, stubble or residue 75 pct",
+   "op_group1": "Harvest, biomass, residue",
+   "op_stir": "0.49",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22782,
+   "op_name": "Harvest, biomass, fiber crop",
+   "op_group1": "Harvest, biomass, residue",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22783,
+   "op_name": "Harvest, hay, grass or legume, kill crop",
+   "op_group1": "Harvest, biomass, residue",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22784,
+   "op_name": "Harvest, hay, grass or legume",
+   "op_group1": "Harvest, biomass, residue",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22785,
+   "op_name": "Harvest, silage, earlage",
+   "op_group1": "Harvest, biomass, residue",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22786,
+   "op_name": "Harvest, silage, haylage",
+   "op_group1": "Harvest, biomass, residue",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22787,
+   "op_name": "Harvest, silage, release",
+   "op_group1": "Harvest, biomass, residue",
+   "op_stir": "0.15",
+   "op_begin_growth": 1,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22788,
+   "op_name": "Harvest, silage",
+   "op_group1": "Harvest, biomass, residue",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22789,
+   "op_name": "Harvest, sprig rototiller digger",
+   "op_group1": "Harvest, biomass, residue",
+   "op_stir": "13.65",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22790,
+   "op_name": "Harvest, timber remove tops",
+   "op_group1": "Harvest, biomass, residue",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22791,
+   "op_name": "Harvest, tree buck",
+   "op_group1": "Harvest, biomass, residue",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22792,
+   "op_name": "Harvest, tree length logs",
+   "op_group1": "Harvest, biomass, residue",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22793,
+   "op_name": "Harvest, tree pulpwood cut",
+   "op_group1": "Harvest, biomass, residue",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22794,
+   "op_name": "Harvest, tree, Conifer, release",
+   "op_group1": "Harvest, biomass, residue",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22795,
+   "op_name": "Harvest, trees, chipper",
+   "op_group1": "Harvest, biomass, residue",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22796,
+   "op_name": "Harvest, woody biomass",
+   "op_group1": "Harvest, biomass, residue",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22797,
+   "op_name": "Remove residue, bale 75 percent",
+   "op_group1": "Harvest, biomass, residue",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22798,
+   "op_name": "Remove residue, forage chopper, complete",
+   "op_group1": "Harvest, biomass, residue",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22799,
+   "op_name": "Remove residue, forage chopper, incomplete",
+   "op_group1": "Harvest, biomass, residue",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22800,
+   "op_name": "Remove residue, forage chopper, intermediate",
+   "op_group1": "Harvest, biomass, residue",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22801,
+   "op_name": "Sod cutter",
+   "op_group1": "Harvest, biomass, residue",
+   "op_stir": "0.24",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22802,
+   "op_name": "Tree spade, holes left",
+   "op_group1": "Harvest, biomass, residue",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22803,
+   "op_name": "Tree spade, holes plugged",
+   "op_group1": "Harvest, biomass, residue",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22804,
+   "op_name": "Harvest, banana remove stem",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.01",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22805,
+   "op_name": "Harvest, banana",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.01",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22806,
+   "op_name": "Harvest, cotton",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22807,
+   "op_name": "Harvest, cranberries",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22808,
+   "op_name": "Harvest, cut flowers",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22809,
+   "op_name": "Harvest, deep root crops, residue buried",
+   "op_group1": "Harvest, crops",
+   "op_stir": "47.74",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22810,
+   "op_name": "Harvest, deep root crops, residue surface",
+   "op_group1": "Harvest, crops",
+   "op_stir": "46.98",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22811,
+   "op_name": "Harvest, fruit crops",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22812,
+   "op_name": "Harvest, grain from windrows",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22813,
+   "op_name": "Harvest, grain, release",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 1,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22814,
+   "op_name": "Harvest, hand pick, final",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22815,
+   "op_name": "Harvest, hand pick, multiple",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22816,
+   "op_name": "Harvest, hops",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22817,
+   "op_name": "Harvest, killing crop 10pct standing stubble",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22818,
+   "op_name": "Harvest, killing crop 20pct standing stubble, release",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 1,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22819,
+   "op_name": "Harvest, killing crop 20pct standing stubble",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22820,
+   "op_name": "Harvest, killing crop 30pct standing stubble",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22821,
+   "op_name": "Harvest, killing crop 50pct standing stubble, release",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 1,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22822,
+   "op_name": "Harvest, killing crop 50pct standing stubble",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22823,
+   "op_name": "Harvest, killing crop 60pct standing stubble",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22824,
+   "op_name": "Harvest, killing crop 70pct standing stubble",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22825,
+   "op_name": "Harvest, knife, windrow, combine",
+   "op_group1": "Harvest, crops",
+   "op_stir": "6.56",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22826,
+   "op_name": "Harvest, lavender bundles",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22827,
+   "op_name": "Harvest, manual, leafy crop. multiple",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22828,
+   "op_name": "Harvest, manual, leafy crops",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22829,
+   "op_name": "Harvest, mechanical, leafy crop, final",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22830,
+   "op_name": "Harvest, mechanical, leafy crop, multiple",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22831,
+   "op_name": "Harvest, mechanical, leafy crops",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22832,
+   "op_name": "Harvest, orchard and nut crops",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.01",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22833,
+   "op_name": "Harvest, perennial, grass or legume seed",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22834,
+   "op_name": "Harvest, plantains,stalks left",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.01",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22835,
+   "op_name": "Harvest, plantains,stalks removed",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.01",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22836,
+   "op_name": "Harvest, root crops, manual, 50 pct disturb",
+   "op_group1": "Harvest, crops",
+   "op_stir": "5.2",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22837,
+   "op_name": "Harvest, rootcrops, manual, 100 pct disturb",
+   "op_group1": "Harvest, crops",
+   "op_stir": "4.16",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22838,
+   "op_name": "Harvest, seed heads, manual",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22839,
+   "op_name": "Harvest, shallow root crops, residue buried",
+   "op_group1": "Harvest, crops",
+   "op_stir": "27.38",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22840,
+   "op_name": "Harvest, shallow root crops, residue surface",
+   "op_group1": "Harvest, crops",
+   "op_stir": "13.75",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22841,
+   "op_name": "Harvest, stripper header",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22842,
+   "op_name": "Harvest, sugarcane",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22843,
+   "op_name": "Harvest, vegetable, manual, head, floret crops",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22844,
+   "op_name": "Harvest, vegetable, mechanical, head, floret crops",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22845,
+   "op_name": "Harvest, vine crops, mechanical",
+   "op_group1": "Harvest, crops",
+   "op_stir": "2.6",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22846,
+   "op_name": "Harvest, vine crops",
+   "op_group1": "Harvest, crops",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22847,
+   "op_name": "No Operation",
+   "op_group1": "",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22848,
+   "op_name": "Burn residue, high intensity",
+   "op_group1": "Residue, manage",
+   "op_stir": "0",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22849,
+   "op_name": "Burn residue, low intensity",
+   "op_group1": "Residue, manage",
+   "op_stir": "0",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22850,
+   "op_name": "Burn residue, moderate intensity",
+   "op_group1": "Residue, manage",
+   "op_stir": "0",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22851,
+   "op_name": "Chop veg. with machete",
+   "op_group1": "Residue, manage",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 1,
+   "op_res_added": 250
+ },
+ {
+   "op_id": 22852,
+   "op_name": "Detasseler, seed corn",
+   "op_group1": "Residue, manage",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22853,
+   "op_name": "Kill crop",
+   "op_group1": "Residue, manage",
+   "op_stir": "0",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22854,
+   "op_name": "Knife, windrow",
+   "op_group1": "Residue, manage",
+   "op_stir": "6.5",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22855,
+   "op_name": "Middle buster, digger",
+   "op_group1": "Residue, manage",
+   "op_stir": "35.1",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22856,
+   "op_name": "Mow, perennial vegetation ",
+   "op_group1": "Residue, manage",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22857,
+   "op_name": "Mow, swath, windrow crop residue",
+   "op_group1": "Residue, manage",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22858,
+   "op_name": "Mow, swath, windrow crop",
+   "op_group1": "Residue, manage",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22859,
+   "op_name": "Mulch crimper",
+   "op_group1": "Residue, manage",
+   "op_stir": "1.56",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22860,
+   "op_name": "Pruning",
+   "op_group1": "Residue, manage",
+   "op_stir": "0",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 1,
+   "op_res_added": 2000
+ },
+ {
+   "op_id": 22861,
+   "op_name": "Rake or windrower, crop residue",
+   "op_group1": "Residue, manage",
+   "op_stir": "1.02",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22862,
+   "op_name": "Residue removal by wind",
+   "op_group1": "Residue, manage",
+   "op_stir": "0",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22863,
+   "op_name": "Residue, row cleaner",
+   "op_group1": "Residue, manage",
+   "op_stir": "1.14",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22864,
+   "op_name": "Rice residue stomper",
+   "op_group1": "Residue, manage",
+   "op_stir": "15.6",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22865,
+   "op_name": "Roller, crimper, kill crop",
+   "op_group1": "Residue, manage",
+   "op_stir": "0.1",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22866,
+   "op_name": "Roller, residue incorporator",
+   "op_group1": "Residue, manage",
+   "op_stir": "1.56",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22867,
+   "op_name": "Roller, residue",
+   "op_group1": "Residue, manage",
+   "op_stir": "0.1",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22868,
+   "op_name": "Root Rake",
+   "op_group1": "Residue, manage",
+   "op_stir": "36",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22869,
+   "op_name": "Shredder, live, flail or rotary",
+   "op_group1": "Residue, manage",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22870,
+   "op_name": "Shredder, residue, flail or rotary",
+   "op_group1": "Residue, manage",
+   "op_stir": "31.2",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22871,
+   "op_name": "Shredder, residue, rotary, strips",
+   "op_group1": "Residue, manage",
+   "op_stir": "24.96",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22872,
+   "op_name": "Stalk chopper, residue, rolling, full width",
+   "op_group1": "Residue, manage",
+   "op_stir": "31.2",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22873,
+   "op_name": "Stalk chopper, residue, rolling, strips",
+   "op_group1": "Residue, manage",
+   "op_stir": "24.96",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22874,
+   "op_name": "Stalk puller",
+   "op_group1": "Residue, manage",
+   "op_stir": "18.72",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22875,
+   "op_name": "Stalk slicer",
+   "op_group1": "Residue, manage",
+   "op_stir": "6.63",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22876,
+   "op_name": "Weed control, string trimmer",
+   "op_group1": "Residue, manage",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 1,
+   "op_res_added": 250
+ },
+ {
+   "op_id": 22877,
+   "op_name": "Begin, growth",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "0",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22878,
+   "op_name": "Drill or air seeder, 4 inch stealth openers on 12 in spac",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "9.75",
+   "op_begin_growth": 1,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22879,
+   "op_name": "Drill or air seeder, combo field cult, dd openers",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "29",
+   "op_begin_growth": 1,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22880,
+   "op_name": "Drill or air seeder, combo single disk-hoe openers, 10 in spac",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "16.38",
+   "op_begin_growth": 1,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22881,
+   "op_name": "Drill or air seeder, dble disk opnr, fluted coult 5x10 paired row",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "12.19",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22882,
+   "op_name": "Drill or air seeder, double disk opener, fert openers",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "13.81",
+   "op_begin_growth": 1,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22883,
+   "op_name": "Drill or air seeder, double disk, fluted coulters",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "7.15",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22884,
+   "op_name": "Drill or air seeder, double disk",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "6.34",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22885,
+   "op_name": "Drill or air seeder, hoe opener in hvy residue, fert openers",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "20.15",
+   "op_begin_growth": 1,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22886,
+   "op_name": "Drill or air seeder, hoe opener in hvy residue",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "16.9",
+   "op_begin_growth": 1,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22887,
+   "op_name": "Drill or air seeder, hoe or chisel opener 12-15 in spac",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "20.8",
+   "op_begin_growth": 1,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22888,
+   "op_name": "Drill or air seeder, hoe or chisel openers 6-12 in spac",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "23.4",
+   "op_begin_growth": 1,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22889,
+   "op_name": "Drill or air seeder, hoe-chisel, 12-15 in spac., fert opnr",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "24.05",
+   "op_begin_growth": 1,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22890,
+   "op_name": "Drill or air seeder, hoe-chisel, 6-12 in spac., fert opnr",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "26.65",
+   "op_begin_growth": 1,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22891,
+   "op_name": "Drill or air seeder, offset double disk openers",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "4.06",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22892,
+   "op_name": "Drill or air seeder, paired, single disk openers 6x9 in spac.",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "16.64",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22893,
+   "op_name": "Drill or air seeder, single disk openers 7-10 in spac.",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "2.44",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22894,
+   "op_name": "Drill or air seeder, single disk, with fert. opnr 7-10 inch spacing",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "5.69",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22895,
+   "op_name": "Drill or air seeder, sweep or band opener",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "9.75",
+   "op_begin_growth": 1,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22896,
+   "op_name": "Drill or air seeder, tee slot openers 7-10 in spac.",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "1.95",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22897,
+   "op_name": "Drill, air seeder, 6 inch stealth openers on 12 in spac",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "10.4",
+   "op_begin_growth": 1,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22898,
+   "op_name": "Drill, deep furrow 12 to 18 in spacing",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "23.4",
+   "op_begin_growth": 1,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22899,
+   "op_name": "Drill, deep furrow 7 to 10 in spacing",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "24.7",
+   "op_begin_growth": 1,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22900,
+   "op_name": "Drill, double disk, 7-8 in packer C",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "11.05",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22901,
+   "op_name": "Drill, heavy, direct seed, dbl disk opnr, row cleaners",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "17.55",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22902,
+   "op_name": "Drill, heavy, direct seed, dbl disk opnr",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "16.58",
+   "op_begin_growth": 1,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22903,
+   "op_name": "Drill, range",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "6.24",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22904,
+   "op_name": "Drill, semi-deep furrow 12 to 18 in spacing",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "22.1",
+   "op_begin_growth": 1,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22905,
+   "op_name": "Seeder, corrugated packer",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "0.98",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22906,
+   "op_name": "Seeding, aerial, broadcast",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "0",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22907,
+   "op_name": "Seeding, aerial, relay or interseed",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22908,
+   "op_name": "Seeding, ground, relay or interseed",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22909,
+   "op_name": "Sod installation",
+   "op_group1": "Seeding, drill, other",
+   "op_stir": null,
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22910,
+   "op_name": "Planter, bedder, hipper, hiller, 6 inch beds",
+   "op_group1": "Seeding, planter",
+   "op_stir": "28.7",
+   "op_begin_growth": 1,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22911,
+   "op_name": "Planter, double disk opener on 12 inch high beds",
+   "op_group1": "Seeding, planter",
+   "op_stir": "2.44",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22912,
+   "op_name": "Planter, double disk opener on 15 inch high beds",
+   "op_group1": "Seeding, planter",
+   "op_stir": "2.44",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22913,
+   "op_name": "Planter, double disk opener on 18 inch high beds",
+   "op_group1": "Seeding, planter",
+   "op_stir": "2.44",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22914,
+   "op_name": "Planter, double disk opener on 8 inch high beds",
+   "op_group1": "Seeding, planter",
+   "op_stir": "2.44",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22915,
+   "op_name": "Planter, double disk opnr w fluted coulter with starter fertilizer",
+   "op_group1": "Seeding, planter",
+   "op_stir": "3.25",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22916,
+   "op_name": "Planter, double disk opnr with starter fertilizer",
+   "op_group1": "Seeding, planter",
+   "op_stir": "3.25",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22917,
+   "op_name": "Planter, double disk opnr, 15 inch row spacing",
+   "op_group1": "Seeding, planter",
+   "op_stir": "4.88",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22918,
+   "op_name": "Planter, double disk opnr, 18 in rows",
+   "op_group1": "Seeding, planter",
+   "op_stir": "4.06",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22919,
+   "op_name": "Planter, double disk opnr, 40 in rows",
+   "op_group1": "Seeding, planter",
+   "op_stir": "1.63",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22920,
+   "op_name": "Planter, double disk opnr, fluted coulter, 15 in row sp",
+   "op_group1": "Seeding, planter",
+   "op_stir": "4.88",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22921,
+   "op_name": "Planter, double disk opnr, fluted coulter",
+   "op_group1": "Seeding, planter",
+   "op_stir": "2.44",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22922,
+   "op_name": "Planter, double disk opnr",
+   "op_group1": "Seeding, planter",
+   "op_stir": "2.44",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22923,
+   "op_name": "Planter, furrow opener in 4 inch deep furrows",
+   "op_group1": "Seeding, planter",
+   "op_stir": "7.8",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22924,
+   "op_name": "Planter, furrow opener in 6 inch deep furrows",
+   "op_group1": "Seeding, planter",
+   "op_stir": "23.4",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22925,
+   "op_name": "Planter, furrow opener in 8 inch deep furrows",
+   "op_group1": "Seeding, planter",
+   "op_stir": "41.6",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22926,
+   "op_name": "Planter, in-row subsoiler low disturb",
+   "op_group1": "Seeding, planter",
+   "op_stir": "2.34",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22927,
+   "op_name": "Planter, in-row subsoiler, residue mgr",
+   "op_group1": "Seeding, planter",
+   "op_stir": "5.85",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22928,
+   "op_name": "Planter, in-row subsoiler",
+   "op_group1": "Seeding, planter",
+   "op_stir": "11.7",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22929,
+   "op_name": "Planter, low disturb, smooth or ripple coulter",
+   "op_group1": "Seeding, planter",
+   "op_stir": "0.81",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22930,
+   "op_name": "Planter, relay or interseed",
+   "op_group1": "Seeding, planter",
+   "op_stir": "2.44",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22931,
+   "op_name": "Planter, ridge till",
+   "op_group1": "Seeding, planter",
+   "op_stir": "10.56",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22932,
+   "op_name": "Planter, runner opener",
+   "op_group1": "Seeding, planter",
+   "op_stir": "2.6",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22933,
+   "op_name": "Planter, small seed, 8 inch beds",
+   "op_group1": "Seeding, planter",
+   "op_stir": "0.59",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22934,
+   "op_name": "Planter, small seed, no beds",
+   "op_group1": "Seeding, planter",
+   "op_stir": "0.59",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22935,
+   "op_name": "Planter, sprig conventional",
+   "op_group1": "Seeding, planter",
+   "op_stir": "13",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22936,
+   "op_name": "Planter, sprig, no-till",
+   "op_group1": "Seeding, planter",
+   "op_stir": "0.52",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22937,
+   "op_name": "Planter, sprigs, on beds",
+   "op_group1": "Seeding, planter",
+   "op_stir": "26",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22938,
+   "op_name": "Planter, strip till, 22 inch",
+   "op_group1": "Seeding, planter",
+   "op_stir": "8.13",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22939,
+   "op_name": "Planter, strip till, shallow subsoiler",
+   "op_group1": "Seeding, planter",
+   "op_stir": "17.1",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22940,
+   "op_name": "Planter, strip till, subsoiler",
+   "op_group1": "Seeding, planter",
+   "op_stir": "26.2",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22941,
+   "op_name": "Planter, strip till",
+   "op_group1": "Seeding, planter",
+   "op_stir": "4.88",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22942,
+   "op_name": "Planter, transplanter, 8 inch beds",
+   "op_group1": "Seeding, planter",
+   "op_stir": "3.12",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22943,
+   "op_name": "Planter, transplanter, no beds, no till",
+   "op_group1": "Seeding, planter",
+   "op_stir": "3.12",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22944,
+   "op_name": "Planter, transplanter, no beds",
+   "op_group1": "Seeding, planter",
+   "op_stir": "3.12",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22945,
+   "op_name": "Planter, tree, mechanical transplanter",
+   "op_group1": "Seeding, planter",
+   "op_stir": "0.01",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22946,
+   "op_name": "Planter, twin row, double disk opener on 12 inch high beds",
+   "op_group1": "Seeding, planter",
+   "op_stir": "2.44",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22947,
+   "op_name": "Planter, twin row, double disk opnr with fluted coulter",
+   "op_group1": "Seeding, planter",
+   "op_stir": "2.44",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22948,
+   "op_name": "Planter, twin row, double disk opnr",
+   "op_group1": "Seeding, planter",
+   "op_stir": "2.44",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22949,
+   "op_name": "Planting, manual, 8 inch beds",
+   "op_group1": "Seeding, planter",
+   "op_stir": "0.78",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22950,
+   "op_name": "Planting, manual, no till",
+   "op_group1": "Seeding, planter",
+   "op_stir": "0.78",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22951,
+   "op_name": "Planting, manual",
+   "op_group1": "Seeding, planter",
+   "op_stir": "0.78",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22952,
+   "op_name": "Seeding, ground, broadcast",
+   "op_group1": "Seeding, planter",
+   "op_stir": "0.15",
+   "op_begin_growth": 1,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22953,
+   "op_name": "Continuous disturbance and smoothing",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "19.18",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22954,
+   "op_name": "Cultivate, field, manual, high disturb",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "3.9",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22955,
+   "op_name": "Cultivate, field, manual, low disturb",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "1.95",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22956,
+   "op_name": "Cultivate, field, manual, moderate disturb",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "3",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22957,
+   "op_name": "Cultivator, field 6-12 in shovels C",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "31.2",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22958,
+   "op_name": "Cultivator, field 6-12 in sweeps, coil tine har",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "28.44",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22959,
+   "op_name": "Cultivator, field 6-12 in sweeps",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "26",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22960,
+   "op_name": "Cultivator, field, spike points, coil tine har",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "34.13",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22961,
+   "op_name": "Cultivator, field, spike points",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "31.2",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22962,
+   "op_name": "Disk, inter row strips",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "16.58",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22963,
+   "op_name": "Disk, offset, heavy 12 in depth",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "78",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22964,
+   "op_name": "Disk, offset, heavy 15 in depth",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "78",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22965,
+   "op_name": "Disk, offset, heavy, roller, corr packer",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "40.83",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22966,
+   "op_name": "Disk, offset, heavy, roller, smooth",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "40.22",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22967,
+   "op_name": "Disk, offset, heavy",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "39",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22968,
+   "op_name": "Disk, oxen strip 60 pct disturb",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "6.24",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22969,
+   "op_name": "Disk, oxen, strip 30 pct disturb",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "3.12",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22970,
+   "op_name": "Disk, single gang",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "19.5",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22971,
+   "op_name": "Disk, tandem heavy primary, roller, smooth",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "40.22",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22972,
+   "op_name": "Disk, tandem heavy primary",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "39",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22973,
+   "op_name": "Disk, tandem light finishing",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "19.5",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22974,
+   "op_name": "Disk, tandem secondary and rolling basket",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "39",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22975,
+   "op_name": "Disk, tandem secondary",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "32.5",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22976,
+   "op_name": "Disk, tandem, shallow, no kill crop",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "19.5",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22977,
+   "op_name": "Sweep plow 20-40 in wide",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "9.75",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22978,
+   "op_name": "Sweep plow wider than 40 inch, mulch treader",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "2.93",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22979,
+   "op_name": "Sweep plow, under bed",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "14.63",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22980,
+   "op_name": "Sweep plow, wider than 40 in",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "7.8",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22981,
+   "op_name": "Sweep, single under row, regrow perennial",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "3.9",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22982,
+   "op_name": "Sweep, single under row",
+   "op_group1": "Tillage, cultivator, disk",
+   "op_stir": "4.68",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22983,
+   "op_name": "Cultivator, flame",
+   "op_group1": "Tillage, cultivator, row",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22984,
+   "op_name": "Cultivator, row, 1 inch ridge",
+   "op_group1": "Tillage, cultivator, row",
+   "op_stir": "14.63",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22985,
+   "op_name": "Cultivator, row, 1st pass ridge till",
+   "op_group1": "Tillage, cultivator, row",
+   "op_stir": "17.55",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22986,
+   "op_name": "Cultivator, row, 2nd pass ridge till",
+   "op_group1": "Tillage, cultivator, row",
+   "op_stir": "19.5",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22987,
+   "op_name": "Cultivator, row, 3 inch ridge",
+   "op_group1": "Tillage, cultivator, row",
+   "op_stir": "17.55",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22988,
+   "op_name": "Cultivator, row, between beds",
+   "op_group1": "Tillage, cultivator, row",
+   "op_stir": "10.56",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22989,
+   "op_name": "Cultivator, row, finger weeder",
+   "op_group1": "Tillage, cultivator, row",
+   "op_stir": "0.49",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22990,
+   "op_name": "Cultivator, row, hipper, disk hiller, on beds",
+   "op_group1": "Tillage, cultivator, row",
+   "op_stir": "6.5",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22991,
+   "op_name": "Cultivator, row, manual, hilling",
+   "op_group1": "Tillage, cultivator, row",
+   "op_stir": "3.32",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22992,
+   "op_name": "Cultivator, row, manual",
+   "op_group1": "Tillage, cultivator, row",
+   "op_stir": "3.9",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22993,
+   "op_name": "Cultivator, row, off bar, disk hiller, on beds",
+   "op_group1": "Tillage, cultivator, row",
+   "op_stir": "10.56",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22994,
+   "op_name": "Cultivator, row, rotary on beds",
+   "op_group1": "Tillage, cultivator, row",
+   "op_stir": "6.63",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22995,
+   "op_name": "Cultivator, row, rotary",
+   "op_group1": "Tillage, cultivator, row",
+   "op_stir": "6.63",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22996,
+   "op_name": "Furrow diker",
+   "op_group1": "Tillage, cultivator, row",
+   "op_stir": "7.28",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22997,
+   "op_name": "Furrow shaper, torpedo",
+   "op_group1": "Tillage, cultivator, row",
+   "op_stir": "2.19",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22998,
+   "op_name": "Ripper, intra row, furrow diker",
+   "op_group1": "Tillage, cultivator, row",
+   "op_stir": "21.35",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 22999,
+   "op_name": "Ripper, intra row",
+   "op_group1": "Tillage, cultivator, row",
+   "op_stir": "13.16",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23000,
+   "op_name": "Rototiller, row cultivator",
+   "op_group1": "Tillage, cultivator, row",
+   "op_stir": "8.7",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23001,
+   "op_name": "Sand fighter on beds",
+   "op_group1": "Tillage, cultivator, row",
+   "op_stir": "19.89",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23002,
+   "op_name": "Sand fighter",
+   "op_group1": "Tillage, cultivator, row",
+   "op_stir": "19.89",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23003,
+   "op_name": "Bed shaper, 12 inch beds, low flattening",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "19.5",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23004,
+   "op_name": "Bed shaper, 12 inch beds",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "19.5",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23005,
+   "op_name": "Bed shaper, 8 inch beds",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "19.5",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23006,
+   "op_name": "Bed shaper, high disturb, 8 inch beds, low flattening",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "26",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23007,
+   "op_name": "Bed shaper, high disturb, 8 inch beds",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "26",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23008,
+   "op_name": "Bedder, hipper, disk hiller",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "26",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23009,
+   "op_name": "Bedder, hipper, hiller 12 in high",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "39",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23010,
+   "op_name": "Bedder, hipper, hiller 15 in high",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "45.5",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23011,
+   "op_name": "Bedder, hipper, hiller 18 in high",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "52",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23012,
+   "op_name": "Cultipacker, roller, kill crop",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "35.59",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23013,
+   "op_name": "Do all, 8 inch beds",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "26",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23014,
+   "op_name": "Do all",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "53.63",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23015,
+   "op_name": "Lister, 30 inch spacing, fertilizer application",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "37.44",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23016,
+   "op_name": "Lister, 30 inch spacing",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "35.1",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23017,
+   "op_name": "Lister, 40 inch spacing, fertilizer application",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "37.44",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23018,
+   "op_name": "Lister, 40 inch spacing",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "35.1",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23019,
+   "op_name": "Power mulcher bed conditioner",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "9.95",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23020,
+   "op_name": "Reel disk vertical tiller",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "44.95",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23021,
+   "op_name": "Roller, on beds",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "0.39",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23022,
+   "op_name": "Rototiller, on beds",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "8.19",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23023,
+   "op_name": "Seedbed conditioner, coil tine har, rlng bskt",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "14.83",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23024,
+   "op_name": "Seedbed conditioner, coulter caddy, coil tine har, rlng bskt",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "20.72",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23025,
+   "op_name": "Seedbed conditioner, coulter caddy, coil tine har",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "16.58",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23026,
+   "op_name": "Seedbed conditioner, coulter caddy, field cult, spike harrow",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "22.43",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23027,
+   "op_name": "Seedbed conditioner, coulter caddy, rtry har, rlng bskt",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "19.99",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23028,
+   "op_name": "Seedbed conditioner, coulter caddy, rtry har",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "15.84",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23029,
+   "op_name": "Seedbed conditioner, coulter caddy, spike har",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "16.58",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23030,
+   "op_name": "Seedbed conditioner, coulter caddy, spk har, rlng bskt",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "18.77",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23031,
+   "op_name": "Seedbed finisher, fld cult, chop, spk har, rlng bskt",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "39.24",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23032,
+   "op_name": "Seedbed finisher, fld cult, coil tine har, rollng bskt",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "36.32",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23033,
+   "op_name": "Seedbed finisher, fld cult, mlch trdr",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "22.04",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23034,
+   "op_name": "Seedbed finisher, fld cult, rtry har",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "22.26",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23035,
+   "op_name": "Seedbed finisher, sngl disk, fld cult, coil tine har, rollng bskt",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "37.21",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23036,
+   "op_name": "Seedbed finisher, sngl disk, rotry har",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "17.06",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23037,
+   "op_name": "Seedbed finisher, sngl dsk, fld cult, coil tine har",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "35.75",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23038,
+   "op_name": "Seedbed finisher",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "22.26",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23039,
+   "op_name": "Strip till, bed conditioner",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "4.88",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23040,
+   "op_name": "Strip till, middlebuster, on beds",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "7.02",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23041,
+   "op_name": "Subsoiler, in-row strip conditioner, 30 inch rows",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "14.26",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23042,
+   "op_name": "Subsoiler, in-row, strip conditioner, 40 inch rows",
+   "op_group1": "Tillage, seedbed, beds",
+   "op_stir": "10.74",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23043,
+   "op_name": "Chisel plow, coulter, st. pts., cover disks, rlng basket",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "70.49",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23044,
+   "op_name": "Chisel plow, coulter, st. pts., cover disks",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "56.31",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23045,
+   "op_name": "Chisel plow, coulter, st. pts.",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "52.65",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23046,
+   "op_name": "Chisel plow, coulter, sweeps",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "52.65",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23047,
+   "op_name": "Chisel plow, coulter, twst. pts., cover disks",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "56.31",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23048,
+   "op_name": "Chisel plow, coulter, twst. pts.",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "52.65",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23049,
+   "op_name": "Chisel plow, disk, st. pts., cover disks",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "68.66",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23050,
+   "op_name": "Chisel plow, disk, st. pts.",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "65",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23051,
+   "op_name": "Chisel plow, disk, twst. pts., cover disks",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "68.66",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23052,
+   "op_name": "Chisel plow, disk, twst. pts.",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "65",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23053,
+   "op_name": "Chisel, 12-16 in. low crown sweep 3 to 4 in. depth",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "25.03",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23054,
+   "op_name": "Chisel, st. pt. 12 in deep",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "62.4",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23055,
+   "op_name": "Chisel, st. pt. 15 in deep",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "78",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23056,
+   "op_name": "Chisel, st. pt. 5 in deep, coil tine har",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "35",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23057,
+   "op_name": "Chisel, st. pt. 5 in deep",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "33",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23058,
+   "op_name": "Chisel, st. pt., coil tine har",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "47.94",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23059,
+   "op_name": "Chisel, st. pt",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "45.5",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23060,
+   "op_name": "Chisel, sweep shovel 5 in. depth, coil tine har",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "34.94",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23061,
+   "op_name": "Chisel, sweep shovel 5 in. depth",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "32.5",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23062,
+   "op_name": "Chisel, sweep shovel, coil tine har",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "47.9",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23063,
+   "op_name": "Chisel, sweep shovel",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "45.5",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23064,
+   "op_name": "Chisel, twisted shovel, coil tine har",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "47.94",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23065,
+   "op_name": "Chisel, twisted shovel",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "45.5",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23066,
+   "op_name": "Chisel, winged with furrow diker",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "74.1",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23067,
+   "op_name": "Para-plow or para-till",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "17.55",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23068,
+   "op_name": "Plow, disk",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "39",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23069,
+   "op_name": "Plow, moldboard, 24 to 36 inch deep",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "102.38",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23070,
+   "op_name": "Plow, moldboard, 6 to 12 inch deep",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "65",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23071,
+   "op_name": "Plow, oxen, 12 in ridge",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "18.2",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23072,
+   "op_name": "Plow, oxen, 18 in ridge",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "20.8",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23073,
+   "op_name": "Plow, oxen, 6 in ridge",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "15.6",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23074,
+   "op_name": "Plow, oxen, strip 30 percent disturb",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "4.7",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23075,
+   "op_name": "Plow, oxen, strip 60 percent disturb",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "9.4",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23076,
+   "op_name": "Plow, reversable",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "52",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23077,
+   "op_name": "Plow, slip plow, 48 to 60 inch deep",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "21.06",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23078,
+   "op_name": "Subsoil disk ripper, coulter smooth, rlng bskt",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "66.81",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23079,
+   "op_name": "Subsoil disk ripper, roller smooth",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "59.2",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23080,
+   "op_name": "Subsoil disk ripper",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "58",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23081,
+   "op_name": "Subsoiler bedder (ripper hipper)",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "45.5",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23082,
+   "op_name": "Subsoiler leveler",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "37.73",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23083,
+   "op_name": "Subsoiler ripper, 24 to 40 in. deep",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "21.06",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23084,
+   "op_name": "Subsoiler, 12 foot spacing",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "6.6",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23085,
+   "op_name": "Subsoiler, in row",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "11.7",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23086,
+   "op_name": "Subsoiler, inline heavy shanks with coulter caddy",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "39.49",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23087,
+   "op_name": "Subsoiler, inline with coulter caddy",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "35.1",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23088,
+   "op_name": "Subsoiler, rlng stlk chpr, roller, mulch treader",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "59.96",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23089,
+   "op_name": "Subsoiler, Stalk chopper, rolling",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "35.1",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23090,
+   "op_name": "Subsoiler, wide spacing",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "8.78",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23091,
+   "op_name": "Subsoiler",
+   "op_group1": "Tillage, subsoil, chisel, plow",
+   "op_stir": "32.91",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23092,
+   "op_name": "Aerator, field surface, ground driven 0 degree offset",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "7.02",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23093,
+   "op_name": "Aerator, field surface, ground driven 10 degree offset",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "23.4",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23094,
+   "op_name": "Aerator, field surface, ground driven 5 degree offset",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "11.7",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23095,
+   "op_name": "Aerator, single drum, lugs, angle 0",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "11.58",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23096,
+   "op_name": "Aerator, tandem drum, lugs, angle 10",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "35.1",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23097,
+   "op_name": "Aerator, tandem drum, lugs, angle 5",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "28.08",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23098,
+   "op_name": "Coulter caddy, double gang, fluted coulters",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "15.6",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23099,
+   "op_name": "Coulter caddy, fluted coulters",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "8.58",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23100,
+   "op_name": "Coulter caddy, smooth coulters",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "3.41",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23101,
+   "op_name": "Coulter tiller, 10 degree, coiled tine har, rlng bskt",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "18.53",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23102,
+   "op_name": "Coulter tiller, spike harrow",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "18.53",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23103,
+   "op_name": "Harrow, coiled tine weeder",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "7.8",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23104,
+   "op_name": "Harrow, coiled tine",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "15.6",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23105,
+   "op_name": "Harrow, disk chain",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "19.5",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23106,
+   "op_name": "Harrow, heavy on heavy residue",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "0.15",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23107,
+   "op_name": "Harrow, heavy",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "15.6",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23108,
+   "op_name": "Harrow, rolling",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "17.23",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23109,
+   "op_name": "Harrow, rotary paddle wheel and spike gangs",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "21.45",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23110,
+   "op_name": "Harrow, rotary, light, fluff fragile residue",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "4.44",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23111,
+   "op_name": "Harrow, rotary, light, fluff residue",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "0.73",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23112,
+   "op_name": "Harrow, rotary",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "10.24",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23113,
+   "op_name": "Harrow, spike tooth, cover seed",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "15.6",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23114,
+   "op_name": "Harrow, spike tooth",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "15.6",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23115,
+   "op_name": "Harrow, tine, on beds",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "7.8",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23116,
+   "op_name": "Land plane",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "10.4",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23117,
+   "op_name": "Laser Land leveler",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "20.8",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23118,
+   "op_name": "Mulch treader",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "10.4",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23119,
+   "op_name": "Pasture renovator",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "5.2",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23120,
+   "op_name": "Residue conditioner, coil tine har, rlng bskt",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "14.83",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23121,
+   "op_name": "Rodweeder, harrow, spike tooth",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "19.5",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23122,
+   "op_name": "Rodweeder",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "17.06",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23123,
+   "op_name": "Roller harrow",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "23.73",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23124,
+   "op_name": "Roller, corrugated packer 6 by 16",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "2.93",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23125,
+   "op_name": "Roller, corrugated packer",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "1.46",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23126,
+   "op_name": "Roller, smooth",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "0.98",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23127,
+   "op_name": "Rolling basket incorporator",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "6.83",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23128,
+   "op_name": "Rotary hoe",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "16.58",
+   "op_begin_growth": 0,
+   "op_kill_crop": 0,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23129,
+   "op_name": "Rototiller, field",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "18.2",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ },
+ {
+   "op_id": 23130,
+   "op_name": "Spader",
+   "op_group1": "Tillage, surface, shallow",
+   "op_stir": "18.2",
+   "op_begin_growth": 0,
+   "op_kill_crop": 1,
+   "op_add_residue": 0,
+   "op_res_added": 0
+ }
+]

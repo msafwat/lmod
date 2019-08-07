@@ -1,0 +1,66 @@
+[
+ {
+   "res_id": 49,
+   "res_name": "compost"
+ },
+ {
+   "res_id": 50,
+   "res_name": "corn stalks"
+ },
+ {
+   "res_id": 51,
+   "res_name": "manure, liquid"
+ },
+ {
+   "res_id": 52,
+   "res_name": "manure, mod.  bedding"
+ },
+ {
+   "res_id": 53,
+   "res_name": "manure, poultry"
+ },
+ {
+   "res_id": 54,
+   "res_name": "manure, semi-solid"
+ },
+ {
+   "res_id": 55,
+   "res_name": "manure, slurry"
+ },
+ {
+   "res_id": 56,
+   "res_name": "manure, solid, signif. bedding"
+ },
+ {
+   "res_id": 57,
+   "res_name": "plastic or permeable mulch"
+ },
+ {
+   "res_id": 58,
+   "res_name": "small grain straw"
+ },
+ {
+   "res_id": 59,
+   "res_name": "water"
+ },
+ {
+   "res_id": 60,
+   "res_name": "weed residue; 0-3 mo"
+ },
+ {
+   "res_id": 61,
+   "res_name": "weed residue; 12+ mo"
+ },
+ {
+   "res_id": 62,
+   "res_name": "weed residue; 3-6 mo"
+ },
+ {
+   "res_id": 63,
+   "res_name": "weed residue; 6-12 mo"
+ },
+ {
+   "res_id": 64,
+   "res_name": "wood chips"
+ }
+]
