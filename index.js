@@ -182,3 +182,8 @@ importOperations(bucket)
 importCropRotationsTemplateOperations(bucket)
   .then(r => console.log(r))
   .catch(err => console.log(err));
+
+/* DELETE FROM `Customer360` */
+/* SELECT * FROM `Customer360` AS data WHERE META().id = 'CropRotationsCrops' */
+/* SELECT * FROM `Customer360` AS data WHERE META().id = 'CropRotationsResidus' */
+/* SELECT * FROM `Customer360` AS data WHERE META().id LIKE 'CropRotationsTemplate::lmod%' */
