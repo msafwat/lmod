@@ -9,11 +9,11 @@ const couchbase = require("couchbase");
     SELECT * FROM `bucket`
     WHERE META().id LIKE LMODCropRotationTemplateOperation::lmodid%
 *****/
-async function importToDB() {
+async function importTemplates(bucket) {
   let templates = require("./files/cr-lmod-managements_6-11-18.json");
 
   templates = templates.map(t => ({
-    key: `CropRotationTemplate::lmod::${t.man_id}`,
+    key: `CropRotationsTemplate::lmod::${t.man_id}`,
     data: {
       id: t.man_id,
       name: t.man_name,
@@ -21,17 +21,81 @@ async function importToDB() {
       cmz: t.man_cmz,
       stir: t.man_stir,
       duration: t.man_duration,
-      documentType: "LMODCropRotationTemplates"
+      documentType: "LMODCropRotationsTemplate"
     }
   }));
 
+  for (t in templates) {
+    await insert(bucket, templates[t].key, templates[t].data);
+  }
+
+  return "Crop Rotations Templates Imported Successfully.";
+}
+
+async function importCrops(bucket) {
+  let crops = require("./files/cr-lmod-crops_6-11-18.json");
+
+  crops = {
+    key: `CropRotationsCrops`,
+    data: crops.map(c => ({
+      id: c.crop_id,
+      name: c.crop_name,
+      yield: c.crop_yield,
+      unit: c.crop_yield_unit
+    }))
+  };
+
+  await insert(bucket, crops.key, crops.data);
+
+  return "Crop Rotations Crops Imported Successfully.";
+}
+
+async function importResidus(bucket) {
+  let residus = require("./files/cr-lmod-residues_6-11-18.json");
+
+  residus = {
+    key: `CropRotationsResidus`,
+    data: residus.map(r => ({
+      id: r.res_id,
+      name: r.res_name
+    }))
+  };
+
+  await insert(bucket, residus.key, residus.data);
+
+  return "Crop Rotations Residus Imported Successfully.";
+}
+
+async function importOperations(bucket) {
+  let operations = require("./files/cr-lmod-operations_6-11-18.json");
+
+  operations = {
+    key: `CropRotationOperations`,
+    data: operations.map(o => ({
+      id: o.op_id,
+      name: o.op_name,
+      group: o.op_group1,
+      stir: o.op_stir,
+      growth: o.op_begin_growth,
+      killCrop: o.op_kill_crop,
+      addResidue: o.op_add_residue,
+      resAdded: o.op_res_added
+    }))
+  };
+
+  await insert(bucket, operations.key, operations.data);
+
+  return "Crop Rotations Operations Imported Successfully.";
+}
+
+async function importCropRotationsTemplateOperations() {
   let operations = require("./files/cr-lmod-operations_6-11-18.json");
   let events = require("./files/cr-lmod-events_6-11-18.json");
   let crops = require("./files/cr-lmod-crops_6-11-18.json");
   let residus = require("./files/cr-lmod-residues_6-11-18.json");
 
   events = events.map(e => ({
-    key: `LMODCropRotationTemplateOperation::${e.fk_man_id}::${e.fk_op_id}`,
+    key: `LMODCropRotationsTemplateOperation::${e.fk_man_id}::${e.fk_op_id}`,
     data: {
       date: e.date,
       operation: operations
@@ -66,48 +130,16 @@ async function importToDB() {
     }
   }));
 
-  crops = {
-    key: `CropRotationsCrops`,
-    data: crops.map(c => ({
-      id: c.crop_id,
-      name: c.crop_name,
-      yield: c.crop_yield,
-      unit: c.crop_yield_unit
-    }))
-  };
+  for (e in events) await insert(bucket, events[e].key, events[e].data);
 
-  operations = {
-    key: `CropRotationOperations`,
-    data: operations.map(o => ({
-      id: o.op_id,
-      name: o.op_name,
-      group: o.op_group1,
-      stir: o.op_stir,
-      growth: o.op_begin_growth,
-      killCrop: o.op_kill_crop,
-      addResidue: o.op_add_residue,
-      resAdded: o.op_res_added
-    }))
-  };
+  return "Crop Rotations Templates Operations Successfully.";
+}
 
-  residus = {
-    key: `CropRotationsResidus`,
-    data: residus.map(r => ({
-      id: r.res_id,
-      name: r.res_name
-    }))
-  };
+function connectDB(url, username, password, bucketName) {
+  const cluster = new couchbase.Cluster(url);
+  cluster.authenticate(username, password);
 
-  const cluster = new couchbase.Cluster("couchbase://localhost:8091/");
-  cluster.authenticate("Administrator", "123456");
-
-  const bucket = cluster.openBucket("default");
-
-  for (t in templates) {
-    await insert(bucket, templates[t].key, templates[t].data);
-  }
-
-  return [];
+  return cluster.openBucket(bucketName);
 }
 
 async function insert(bucket, key, data) {
@@ -124,6 +156,29 @@ async function insert(bucket, key, data) {
   });
 }
 
-importToDB()
-  .then(x => console.log(x))
-  .catch(x => console.log(x));
+const bucket = connectDB(
+  "couchbase://localhost:8091/",
+  "Administrator",
+  "123456",
+  "Customer360"
+);
+
+importTemplates(bucket)
+  .then(r => console.log(r))
+  .catch(err => console.log(err));
+
+importCrops(bucket)
+  .then(r => console.log(r))
+  .catch(err => console.log(err));
+
+importResidus(bucket)
+  .then(r => console.log(r))
+  .catch(err => console.log(err));
+
+importOperations(bucket)
+  .then(r => console.log(r))
+  .catch(err => console.log(err));
+
+importCropRotationsTemplateOperations(bucket)
+  .then(r => console.log(r))
+  .catch(err => console.log(err));
